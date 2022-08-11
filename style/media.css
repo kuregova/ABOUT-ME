@@ -1,0 +1,22 @@
+@media(max-width:1400px){
+    .header{
+        width: 100%;
+        justify-content: center;
+    }
+    .nav-content{
+        justify-content: space-around;
+    }
+    .works-items{
+        flex-wrap: wrap;
+    }
+    .about-content{
+        flex-wrap: wrap;
+    }
+    .header{
+        justify-content: center;
+        
+    }
+}
+@media(max-width:1200px){
+
+}
